@@ -30,14 +30,6 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
-    },
-    {
-      "chainId": 8453,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "WETH",
-      "symbol": "WETH",
-      "decimals": 17,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
     }
   ],
   "version": {
