@@ -1,23 +1,15 @@
 {
-  "name": "Compound",
+  "name": "Baze",
   "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "compound",
+    "base",
     "defi"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "timestamp": "2023-09-20T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-    },
-    {
-      "chainId": 42,
-      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+      "chainId": 8453,
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
@@ -25,9 +17,9 @@
     },
     {
       "chainId": 8453,
-      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-      "name": "USD Coin USDC",
-      "symbol": "USDC",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
